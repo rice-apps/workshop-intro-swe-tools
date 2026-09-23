@@ -1,0 +1,10 @@
+{
+  "name": "counter-app",
+  "version": "1.0.0",
+  "description": "A very simple counter webapp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
