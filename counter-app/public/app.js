@@ -14,11 +14,11 @@ function render() {
 }
 
 incrementBtn.addEventListener('click', () => {
-  count--;
+  count++;
   render();
 });
 
 decrementBtn.addEventListener('click', () => {
-  count++;
+  count--;
   render();
 });
